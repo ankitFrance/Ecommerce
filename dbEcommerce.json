@@ -1,0 +1,218 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "data": {
+        "name": "tom",
+        "password": "abc@123",
+        "email": "tom@gmail.com"
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "tom",
+        "password": "abc@123",
+        "email": "tom@gmail.com"
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "name": "tom",
+        "password": "abc@123",
+        "email": "tom@gmail.com"
+      },
+      "id": 4
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "password": "245",
+      "email": "ankitforfrancee@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "peter",
+      "password": "123@abc",
+      "email": "peter@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Test",
+      "password": "Test123",
+      "email": "Test@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "password": "ee",
+      "email": "ankitforfrancee@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "radha",
+      "password": "123@abc",
+      "email": "radha@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "password": "s",
+      "email": "infoankitkumar6@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "anil",
+      "password": "anil",
+      "email": "anil@gmail.com",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "name": "Slim Fit Jeans",
+      "price": "Rs 1500",
+      "category": "Clothing",
+      "color": "Blue",
+      "description": "Men Regular Mid Rise Blue Jeans",
+      "image": "https://static.footshop.com/250142/51372.jpg",
+      "id": 1
+    },
+    {
+      "name": "Sneakers",
+      "price": "Rs 2300",
+      "category": "Shoes",
+      "color": "black",
+      "description": "Stylish & Trendy Sneakers For Men  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/7/v/m/9-gapline-black-9-hotstyle-black-original-imagh3kyyvycezrq.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "name": "LED Tv",
+      "price": "Rs 15000",
+      "category": "Appliances",
+      "color": "Orange",
+      "description": "SAMSUNG 80 cm (32 Inch) HD Ready LED Smart Tizen TV with 2022",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/television/m/n/p/-original-imagkzctc2gkvfgf.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "Wall Painting",
+      "price": "Rs 1000",
+      "category": "Decoration",
+      "color": "Yellow",
+      "description": "SEVEN HORSES (1569) Digital Reprint 10.6 inch x 13 inch ",
+      "image": "https://rukminim1.flixcart.com/image/832/832/ktuewsw0/painting/r/s/n/indr1569-indianara-original-imag73taftfqmmcj.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "Vivo Smartphone",
+      "price": "Rs 21000",
+      "category": "Phones",
+      "color": "Blue",
+      "description": "vivo T1X ( Blue, 64 GB)  (2 GB RAM)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/8/a/y/-original-imaggbtszycsgjp5.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "Curtain",
+      "price": "Rs 1200",
+      "category": "Decoration",
+      "color": "Brown",
+      "description": " 214 cm (7 ft) Polyester Semi Transparent Door Curtain",
+      "image": "https://rukminim1.flixcart.com/image/832/832/jw6pifk0/curtain/p/q/n/aqua-275-pack-of-2-eyelet-sehbhagi-original-imaegnzdpwynfhap.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "Hoodie",
+      "price": "Rs 1200",
+      "category": "Clothing",
+      "color": "black",
+      "description": "Men Typography Hooded Neck Black T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/u/n/a/xl-all-guren-vani-one-nb-nicky-boy-original-imagj7hcjqccffyt.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "Godrej Referigerator",
+      "price": "Rs 19000",
+      "category": "Appliances",
+      "color": "Blue",
+      "description": "Godrej 236 L Frost Free Double Door 2 Star Refrigerator ",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0o6nbk0/refrigerator-new/t/j/1/-original-imagceqnkyg6bk6r.jpeg?q=70",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Pintu",
+      "email": "pintu@test.com",
+      "password": "sonal",
+      "id": 1
+    },
+    {
+      "name": "Pintu",
+      "email": "pintu@test.com",
+      "password": "sonal",
+      "id": 2
+    },
+    {
+      "name": "Pintu",
+      "email": "pintu@test.com",
+      "password": "sonal",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peterpeter",
+      "id": 4
+    },
+    {
+      "name": "Nisha",
+      "email": "nisha@gmail.com",
+      "password": "nish",
+      "id": 5
+    },
+    {
+      "name": "Nisha",
+      "email": "nisha@gmail.com",
+      "password": "nish",
+      "id": 6
+    },
+    {
+      "name": "Nisha",
+      "email": "nisha@gmail.com",
+      "password": "nisha",
+      "id": 7
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "email": "infoankitkumar6@gmail.com",
+      "password": "ff",
+      "id": 8
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "email": "ankitforfrancee@gmail.com",
+      "password": "sss",
+      "id": 9
+    },
+    {
+      "name": "a",
+      "email": "ankit.kmr335@gmail.com",
+      "password": "a",
+      "id": 10
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "email": "infoankitkumar6@gmail.com",
+      "password": "m",
+      "id": 11
+    }
+  ]
+}
